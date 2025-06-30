@@ -1,5 +1,3 @@
-# Stockbyrushabh-
-Stock Market Tool by Rushabh
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,4 +30,70 @@ Stock Market Tool by Rushabh
 
     <script src="script.js"></script>
 </body>
-</html>
+</html>body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: url('assets/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+header {
+    background-color: rgba(0,0,0,0.8);
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    color: #00ffea;
+}
+
+header p {
+    margin: 5px;
+}
+
+main .content {
+    margin: 50px auto;
+    width: 80%;
+    background: rgba(0,0,0,0.7);
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.buttons a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background: #00ffea;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: rgba(0,0,0,0.9);
+    padding: 10px;
+    text-align: center;
+}console.log("Welcome to StockByRushabh - Website Loaded Successfully!");# StockByRushabh
+
+🚀 **Stock Market Analysis + APK + Website by Rushabh**
+
+## Features:
+- ✅ Stock Analysis
+- ✅ Government Stock Growth Tracker
+- ✅ Profit Calculator
+- ✅ APK Download Link
+- ✅ Daily Updates (Manual)
+
+## APK Download:
+➡️ Download APK from Google Drive Link (Add link here when uploaded)
+
+## Credits:
+Developed & Powered by Rushabh 🚀
+
+## License:
+Free to use. Attribution appreciated.
